@@ -1,4 +1,8 @@
-#### You can reach the detailed explanation of the projects from the links below:
+# CRM Analytics:
+
+![Ekran görüntüsü 2022-10-25 230951](https://user-images.githubusercontent.com/81737980/202547222-cea65c8f-11bc-4877-b721-87ed54dc1126.jpg)
+
+### You can reach the detailed explanation of the projects from the links below:
 * for RFM : https://medium.com/@zbeyza/crm-analytics-customer-segmentation-with-rfm-208ddc10c623
 * for CLTV : https://medium.com/the-modern-scientist/crm-analytics-cltv-customer-lifetime-value-6a02825d7cbe
 
