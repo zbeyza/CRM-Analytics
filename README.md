@@ -1,3 +1,7 @@
+#### You can reach the detailed explanation of the projects from the links below:
+* for RFM : https://medium.com/@zbeyza/crm-analytics-customer-segmentation-with-rfm-208ddc10c623
+* for CLTV : https://medium.com/the-modern-scientist/crm-analytics-cltv-customer-lifetime-value-6a02825d7cbe
+
 # About Data Set:
 Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
 
