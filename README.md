@@ -18,7 +18,7 @@ Online Retail II data set contains all the transactions occurring for a UK-based
 - UnitPrice: Unit price. Numeric. Product price per unit in sterling (£).
 - CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
 - Country: Country name. Nominal. The name of the country where a customer resides.
-- CLTV : Customer Lifetime Value
+
 
 ### Source: 
 https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
