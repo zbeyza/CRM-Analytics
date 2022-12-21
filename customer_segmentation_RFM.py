@@ -98,7 +98,7 @@ rfm["RF_SCORE"] = (rfm["recency_score"].astype(str) + rfm["frequency_score"].ast
 
 rfm.head()
 
-# converting RF_SCORE to segment with Regex
+# converting RF_SCORE to segments with Regex
 seg_map = {
     r'[1-2][1-2]': 'hibernating',
     r'[1-2][3-4]': 'at_Risk',
