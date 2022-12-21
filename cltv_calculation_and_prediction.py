@@ -124,7 +124,7 @@ cltv_df = df.groupby("Customer ID").agg({"InvoiceDate": [lambda InvoiceDate: (In
                                          "Invoice": lambda Invoice: Invoice.nunique(),
                                          "TotalPrice": lambda TotalPrice: TotalPrice.sum()})
 
-# we are calculating recency and tenure values based on InvoiceDate, and we want them in the week format. So i divide them with 7.
+# we are calculating recency and tenure values based on InvoiceDate, and we want them in the week format. So I divide them with 7.
 
 # drop the level0 varible naming
 cltv_df.columns = cltv_df.columns.droplevel(0)
